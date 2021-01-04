@@ -1,0 +1,72 @@
+{
+    "teachers": [{
+            "id": 1,
+            "avatar_url": "https://source.unsplash.com/collection/2005783/500x500",
+            "name": "Ciclano de tal",
+            "birth": 0,
+            "degree": "Ensino Médio Completo",
+            "areas": "cxcxxcxcxccxxc,sdsddsd",
+            "typeofclass": "Presencial"
+        },
+        {
+            "id": 3,
+            "avatar_url": "https://source.unsplash.com/collection/1730388//500x500",
+            "name": "ddfff",
+            "birth": 515721600000,
+            "degree": "Ensino Superior Completo",
+            "areas": "dfdfdfdf,dffddfdf",
+            "typeofclass": "Presencial",
+            "created_at": 1608644975399
+        },
+        {
+            "id": 4,
+            "avatar_url": "https://source.unsplash.com/collection/1730388//500x500",
+            "name": "fdffddffd",
+            "birth": 578880000000,
+            "degree": "Mestrado",
+            "areas": "cxcxxcxcxccxxc,sdsdsdsd",
+            "typeofclass": "EAD",
+            "created_at": 1608647581580
+        },
+        {
+            "id": 5,
+            "avatar_url": "https://source.unsplash.com/collection/8325170/500x500",
+            "name": "Fulano",
+            "birth": 567993600000,
+            "degree": "Doutorado",
+            "areas": "sdsdsddsds,sddssdsd",
+            "typeofclass": "Presencial",
+            "created_at": 1608817980257
+        },
+        {
+            "id": 6,
+            "avatar_url": "https://source.unsplash.com/collection/2005783/500x500",
+            "name": "aaaaaaaaa",
+            "birth": 1606089600000,
+            "degree": "Doutorado",
+            "areas": "cxcxxcxcxccxxc,sdsddsd",
+            "typeofclass": "Presencial",
+            "created_at": 1609251421155
+        },
+        {
+            "id": 7,
+            "avatar_url": "https://source.unsplash.com/collection/2005783/500x500",
+            "name": "aaaaaaaaa",
+            "birth": 1606089600000,
+            "degree": "Doutorado",
+            "areas": "cxcxxcxcxccxxc,sdsddsd",
+            "typeofclass": "Presencial",
+            "created_at": 1609251541276
+        },
+        {
+            "id": 8,
+            "avatar_url": "https://source.unsplash.com/collection/8325170/500x500",
+            "name": "Fulano de tal",
+            "birth": 157766400000,
+            "degree": "Doutorado",
+            "areas": "TI",
+            "typeofclass": "EAD",
+            "created_at": 1609333969967
+        }
+    ]
+}
